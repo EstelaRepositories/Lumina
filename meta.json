@@ -1,0 +1,15 @@
+{
+  "versions": [
+    {
+      "id": "1.0.0-beta",
+      "releasedAt": 1719878400000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "",
+          "curseforge": "",
+          "generic": "https://github.com/EstelaRepositories/Lumina/releases"
+        }
+      }
+    }
+  ]
+}
