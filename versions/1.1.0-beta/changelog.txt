@@ -1,0 +1,68 @@
+```text
+██╗     ██╗   ██╗███╗   ███╗██╗███╗   ██╗ █████╗
+██║     ██║   ██║████╗ ████║██║████╗  ██║██╔══██╗
+██║     ██║   ██║██╔████╔██║██║██╔██╗ ██║███████║
+██║     ██║   ██║██║╚██╔╝██║██║██║╚██╗██║██╔══██║
+███████╗╚██████╔╝██║ ╚═╝ ██║██║██║ ╚████║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
+               Patch Notes
+```
+
+══════════════════════════════════════════════════════════════
+
+╔════════════════════════════════════╗
+║             NEW CONTENT            ║
+╚════════════════════════════════════╝
+
+◆ Fishing Real
+└─ Expands fishing with new mechanics and progression.
+
+◆ Fishing Real Extra Compatibility
+└─ Improves compatibility with the rest of the modpack.
+
+╔════════════════════════════════════╗
+║          BALANCE CHANGES           ║
+╚════════════════════════════════════╝
+
+◆ Artifact Loot Rebalance
+├─ Artifacts no longer appear in common structures.
+├─ Removed from villages and other early-game loot.
+└─ Can now only be found in high-tier structures and dungeons.
+
+◆ Stack Size Tweaks
+└─ Adjusted stack sizes for better inventory management.
+
+╔════════════════════════════════════╗
+║           VISUALS & UI             ║
+╚════════════════════════════════════╝
+
+◆ Easy Magic
+└─ Cleaner enchanting interface.
+
+◆ Easy Anvils
+└─ Improved anvil interface.
+
+◆ Easy Shulker Boxes
+└─ Improved shulker box interface.
+
+◆ Visual Workbench
+└─ Crafting tables now visually retain their contents.
+
+◆ Every Compat (Wood Good)
+└─ Adds matching wood variants across supported mods.
+
+◆ Fast Paintings
+└─ Optimizes painting rendering.
+
+╔════════════════════════════════════╗
+║           PERFORMANCE              ║
+╚════════════════════════════════════╝
+
+◆ Chloride
+└─ Improves Sodium compatibility and overall stability.
+
+◆ Fast Item Frames
+└─ Optimizes item frame rendering to reduce lag.
+
+══════════════════════════════════════════════════════════════
