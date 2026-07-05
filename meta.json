@@ -23,6 +23,17 @@
           "generic": "https://github.com/EstelaRepositories/Lumina/releases"
         }
       }
+    },
+    {
+      "id": "1.2.0-beta",
+      "releasedAt": 1783036800000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "",
+          "curseforge": "",
+          "generic": "https://github.com/EstelaRepositories/Lumina/releases"
+        }
+      }
     }
   ]
 }
