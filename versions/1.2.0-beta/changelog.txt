@@ -1,0 +1,67 @@
+✨ Highlights
+⛰️ Underground Exploration Overhaul
+Cave generation has been reworked to feel more varied, rewarding, and less repetitive.
+Added Subterranean Wilderness Revival for richer cave environments.
+⚔️ Harder Combat
+Hostile mobs are now significantly more dangerous.
+Added Improved Mobs for smarter enemy AI.
+Added Bosses Rise to introduce stronger boss encounters.
+🛡️ RPG Expansion
+Rebalanced and improved all starting classes.
+Added additional RPG classes.
+Added class relics.
+Added Mage's Guild content.
+Added LNE Structures for improved class progression.
+Added Extra Spell Attributes.
+Added Arsenal.
+🍖 Food & Survival
+Added Nutritional Balance to encourage a varied diet.
+Removed the Heatstroke mechanic for a smoother survival experience.
+🎣 Fishing Overhaul
+Added Aquaculture 2.
+Added Aquaculture Delight compatibility.
+Added Hybrid Aquatic.
+Removed Entity Fishing.
+
+══════════════════════════════════════════════════════════════
+
+➕ Added
+Nutritional Balance
+Bosses Rise
+Nobility's Ore Rebalance
+Subterranean Wilderness Revival
+Aquaculture 2
+Aquaculture Delight
+Hybrid Aquatic
+Extra Spell Attributes
+Arsenal
+Additional RPG Classes
+RPG Class Relics
+Mage's Guild
+LNE Structures
+More hostile mobs
+
+══════════════════════════════════════════════════════════════
+
+🔄 Changes
+Swapped Explosive Enhancement for the official version.
+Starting classes have been rebalanced.
+Cave generation is now more diverse.
+Overall combat difficulty has been increased.
+Added Punchy Resource Pack compatibility for Starcatcher.
+
+══════════════════════════════════════════════════════════════
+
+❌ Removed
+Entity Fishing
+Heatstroke
+Artifact food items:
+Everlasting Beef
+Eternal Steak
+Disabled Items
+All Aquaculture fishing rods
+Aquaculture Worms & Worm Farm
+All Aquaculture hooks
+Aquaculture Fishing Line
+Aquaculture Bobber
+Aquaculture Message in a Bottle
